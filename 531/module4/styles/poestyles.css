@@ -1,0 +1,113 @@
+body {
+    max-width: 60em;
+    margin: 0 auto 0 auto;
+}
+
+table,
+th,
+td {
+    border-collapse: collapse;
+    border: 1px solid #000;
+    padding: 1em;
+}
+
+
+body {
+
+    background-color: rgb(245, 235, 235);
+    background: url("images/poe.jpg") no-repeat;
+    margin-top: 0px;
+    background-size: cover;
+    /* This will make the image cover the entire element */
+    background-position: center
+}
+
+
+
+h1 {
+    background-color: #4e0606;
+    text-transform: uppercase;
+    color: rgb(245, 235, 235);
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 50px;
+    font-size: 80px;
+    font-style: italic;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 50px;
+    font-style: oblique;
+    color: #4e0606;
+    background-image: url("poe/images/tombstone.png");
+
+
+}
+
+
+h3 {
+    background-color: #4e0606;
+    text-transform: uppercase;
+    color: rgb(245, 235, 235);
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 50px;
+    font-size: 80px;
+    font-style: italic;
+}
+
+h4 {
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 50px;
+    font-size: 50px;
+    font-style: oblique;
+    color: #4e0606;
+}
+
+content {
+    font-size: 20px;
+    text-align: center;
+    margin-top: 50px;
+
+}
+
+li {
+    font-size: 20px;
+}
+
+a {
+    font-size: 20px;
+    font-style: normal;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+
+
+p {
+    font-size: 20px;
+    margin-top: 60px;
+}
+
+
+caption {
+    font-size: 30px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-style: inherit;
+    text-decoration: double;
+}
+
+
+table {
+    text-align: center;
+    margin: auto;
+    font-size: 20px;
+    margin-bottom: 80px;
+    min-width: 100%;
+
+}
